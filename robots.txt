@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rasiq-gulzar.github.io/resume-myportfolio.io.in/sitemap.xml
